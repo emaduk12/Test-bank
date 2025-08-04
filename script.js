@@ -1,7 +1,7 @@
 // Simulated user data — change this when you want to update
 const user = {
   name: "Ali Hassan",
-  balance: 55.44
+  balance: 60.00
 };
 
 // Display on page
